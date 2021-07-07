@@ -1,1 +1,10 @@
 table class="left-column" width="100%">
+
+<a style="color:#00b4e6" href=https://flatironschool.com/learn-to-code-for-free/">
+
+<hr style="color:  #9A9A9A;">
+
+issues
+- Responsive design
+- space between <tr>
+- Helvetica font family issues
