@@ -1,0 +1,1 @@
+table class="left-column" width="100%">
