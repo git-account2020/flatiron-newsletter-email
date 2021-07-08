@@ -4,6 +4,8 @@ table class="left-column" width="100%">
 
 <hr style="color:  #9A9A9A;">
 
+<td style=" padding:1px 20px; "  >
+
 issues
 - Responsive design
 - space between <tr>
